@@ -1,9 +1,0 @@
-
-% B == 4 for the purpose of aliasing 
-B=4;
-Ts=1/8;
-f0=1/4;
-T0=4;
-N0=32;
-
-k=0:32
