@@ -1,5 +1,0 @@
-% triplesinc.m
-% Baseband signal for AM
-
-function m=triplesinc()
-    sig_1 = sinc(2*
